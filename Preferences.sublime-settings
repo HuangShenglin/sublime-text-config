@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"font_size": 11,
+	"http_proxy": "127.0.0.1:8087",
+	"https_proxy": "127.0.0.1:8087",
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true
+}

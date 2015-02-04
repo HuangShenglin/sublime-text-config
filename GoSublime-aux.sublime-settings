@@ -1,0 +1,22 @@
+{
+	"9o.hist.C:\\Users\\huang_shenglin\\Desktop":
+	[
+		"go run main.go"
+	],
+	"9o.hist.D:\\":
+	[
+		"go run main.go"
+	],
+	"9o.hist.D:\\hsl-code\\branch_qp_campaign3\\server\\gamesvr\\games\\modules\\oss\\game_campaign\\core\\rank":
+	[
+		"go list"
+	],
+	"9o.hist.D:\\hsl-code\\go_test\\src":
+	[
+		"go run main.go\\",
+		"go run main.go"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r13.12.26-3",
+	"version": "r13.12.26-3"
+}

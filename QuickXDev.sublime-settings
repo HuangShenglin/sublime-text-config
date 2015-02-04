@@ -1,0 +1,6 @@
+{
+    // must set the path
+    "quick_cocos2dx_root": "D:\\hsl-code\\quick-cocos2d-x",
+    // i.e. peter or peter (peter@gmail.com)
+    "author": "hsl46346@163.com",
+}

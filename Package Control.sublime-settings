@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"ActionScript 3",
+		"BracketHighlighter",
+		"CTags",
+		"FileHeader",
+		"Function Name Display",
+		"Godef",
+		"GoSublime",
+		"Lua Dev",
+		"LuaAutocomplete",
+		"PHPTools",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Zeal"
+	]
+}

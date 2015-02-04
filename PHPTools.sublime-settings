@@ -1,0 +1,5 @@
+{
+    "debug":"True",
+    "php_path":"D:\\Program Files (x86)\\php-5.5.13-nts-Win32-VC11-x86\\",
+    // "formatter_path":"/your/path/to/php/formatter"
+}
